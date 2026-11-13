@@ -2,7 +2,7 @@
 
 **Imię i nazwisko:** Wojciech Regulski
 **Nr indeksu:** 337612
-**GitHub:** https://github.com/WojakR/ODSI  **commit:** 4d9c051
+**GitHub:** https://github.com/WojakR/ODSI  **commit:** c5beb10
 
 Środowisko: Docker 29.9.2, Compose v5.6.1, obraz `python:3.12-alpine`, Flask 3.1.3. Aplikacja „Tablica ogłoszeń" pod `http://127.0.0.1:8080`, zbieracz pod `http://localhost:8081`. Poprawki w `pliki-dla-studentow/aplikacja/`. Pełne ładunki, polecenia i logi: `dowody.md`.
 
