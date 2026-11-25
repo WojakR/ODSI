@@ -1,0 +1,5 @@
+# podpis i paczka binarnie - bez konwersji koncow wierszy
+podpis.txt -text
+*.sig binary
+*.bin binary
+*.pem -text
