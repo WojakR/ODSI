@@ -1,0 +1,4 @@
+# klucze prywatne nie trafiaja do repozytorium
+moj_klucz_prywatny.pem
+pliki-dla-studentow/klucz_prywatny.pem
+__pycache__/
