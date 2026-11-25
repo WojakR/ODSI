@@ -3,7 +3,7 @@
 **Imię i nazwisko:** Wojciech Regulski
 **Nr indeksu:** 337612
 **Język:** Python 3.14 + `cryptography` 50.0.2
-**GitHub:** https://github.com/WojakR/ODSI (katalog `lab8`)  **commit:**
+**GitHub:** https://github.com/WojakR/ODSI (katalog `lab8`)  **commit:** 31fccd1
 
 Kod: `zad1.py`, `zad2.py`, `zad3.py`. Pełne wyjścia programów: `dowody.md`.
 
