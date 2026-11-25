@@ -2,7 +2,7 @@
 
 **Imię i nazwisko:** Wojciech Regulski
 **Nr indeksu:** 337612
-**GitHub:** https://github.com/WojakR/ODSI  **commit:** a8e07aa
+**GitHub:** https://github.com/WojakR/ODSI  **commit:**
 
 Środowisko: Docker 29.9.2, obraz `python:3.12-alpine` (Alpine 3.24.4), Flask 3.1.3. Aplikacja „Sejf sekretów" pod `http://127.0.0.1:8080`, kontener tylko do odczytu, użytkownik `app` (UID 1000). Poprawki w `pliki-dla-studentow/aplikacja/app.py`. Pełne ładunki, polecenia i logi: `dowody.md`.
 

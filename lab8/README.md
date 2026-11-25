@@ -22,5 +22,5 @@ Pierwsze uruchomienie `zad2.py` generuje parę RSA 3072 i zapisuje klucz prywatn
 - `zad2.py` – RSA-PSS (SHA-256, MGF1-SHA256, sól 32 B)
 - `zad3.py` – RSA-OAEP-SHA256 + AES-256-GCM, sprawdzanie formatu przed odszyfrowaniem
 - `podpis.txt`, `podpis.txt.sig`, `moj_klucz_publiczny.pem` – własny podpis
-- `odpowiedz.bin` – odpowiedź dla prowadzącego: `L(2 B, =384) | klucz AES zaszyfrowany OAEP (384 B) | nonce (12 B) | kryptogram + tag (32 B)`
+- `odpowiedz.bin` – odpowiedź: `L(2 B, =384) | klucz AES zaszyfrowany OAEP (384 B) | nonce (12 B) | kryptogram + tag (32 B)`
 - `raport.md`, `dowody.md`
